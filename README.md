@@ -1,0 +1,2 @@
+# imperialsuites
+Static site: imperialsuites
